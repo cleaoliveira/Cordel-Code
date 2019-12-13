@@ -1,7 +1,7 @@
  <h2>Comandos do Git Bash</h2>
       
- * **git config user.name “Nome Sobrenome”**;
- * **git config user.email “seu@email.com”**;</br>
+ * **git user.name “Nome Sobrenome”**;
+ * **git user.email “seu@email.com”**;</br>
  * **pwd**(mostra sua pasta atual);</br>
  * **cd**(caminhar entre pastas do pc pelo gitbash);</br>
  * Usar **cd** "nome da pasta";</br>
